@@ -1,0 +1,19 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "82db0ce8-3d12-4ccf-bc3f-de0389819337"
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "one-light-syntax"
+    ]
+  editor:
+    fontSize: 13
+    softWrapAtPreferredLineLength: true
+  emmet: {}
+  "exception-reporting":
+    userId: "adc079e3-b3a4-4d6f-898d-e631204f64bd"
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
